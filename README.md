@@ -23,6 +23,7 @@ Akıllı Yerleşim: CSS Grid ile her ekran boyutuna uyumlu, kaydırmalı (scroll
 Modern Navigasyon: Sabit navbar ve katman yönetimi (z-index) ile kesintisiz kullanıcı deneyimi.
 
 📸 Görünüm
+
 ![1-Anasayfa](Anasayfa.png)
 ![2-Anasayfa link ekleme işlemi](Anasayfa-2.png)
 ![3-Anasayfa video özeti maddeler ve kısa özet](Anasayfa-3.png)
