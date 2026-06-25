@@ -32,19 +32,15 @@ Anasayfa - Link ekleme
 
 <img width="400" height="200" alt="Anasayfa-" src="https://github.com/user-attachments/assets/a91228d7-1133-4f07-acfd-ebe63fcd7d0d" />
 
-
-
-
-<img width="397" height="172" alt="Anasayfa" src="https://github.com/user-attachments/assets/aaaeadba-6b62-4f5b-ab26-a54b9219d6cc" />
-<img width="382" height="172" alt="Anasayfa-2" src="https://github.com/user-attachments/assets/ef03bd72-9c86-4703-be19-9de4de522648" />
-
-
+<img width="400" height="200" alt="Anasayfa2-" src="https://github.com/user-attachments/assets/531c0a64-3711-4550-9109-dbc1bddbdbf6" />
 
 Anasayfa özet kartı / History
 
-<img width="387" height="172" alt="Anasayfa-3" src="https://github.com/user-attachments/assets/ebdf061c-2bc8-4806-ab2b-57301fec4594" />
+<img width="400" height="200" alt="anasayfa3-" src="https://github.com/user-attachments/assets/d2b1db5c-97ea-4ab5-93c5-1d1be57f1e61" />
 
-<img width="392" height="172" alt="History" src="https://github.com/user-attachments/assets/53b6c9a0-f2e0-40bb-a2e4-e01589357a2d" /> 
+<img width="400" height="200" alt="History-" src="https://github.com/user-attachments/assets/9040baff-fbc7-43b0-b517-4482f316e457" />
+
+
 
 # 💻 Kurulum
 
