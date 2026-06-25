@@ -28,7 +28,11 @@ Modern Navigasyon: Sabit navbar ve katman yönetimi (z-index) ile kesintisiz kul
 
 # 📸 Görünüm
 
-(Anasayfa-1.png) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; !(Anasayfa-2-1.png)
+<img width="575" height="255" alt="Anasayfa" src="https://github.com/user-attachments/assets/2b870b90-0cbb-4101-9a32-4842d89ced7c" />
+
+
+<img width="552" height="255" alt="Anasayfa-2" src="https://github.com/user-attachments/assets/afd04819-65b1-42c6-a890-6996d0b8008b" />
+
 
 ![Anasayfa-3](Anasayfa-3.png) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![History](History.png)
 
