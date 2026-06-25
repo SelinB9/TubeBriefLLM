@@ -28,13 +28,16 @@ Modern Navigasyon: Sabit navbar ve katman yönetimi (z-index) ile kesintisiz kul
 
 # 📸 Görünüm
 
-Anasayfa 
+Anasayfa - Link ekleme 
 
-<img width="575" height="255" alt="Anasayfa" src="https://github.com/user-attachments/assets/2b870b90-0cbb-4101-9a32-4842d89ced7c" />  <img width="552" height="255" alt="Anasayfa-2" src="https://github.com/user-attachments/assets/afd04819-65b1-42c6-a890-6996d0b8008b" />
+<img width="397" height="172" alt="Anasayfa" src="https://github.com/user-attachments/assets/aaaeadba-6b62-4f5b-ab26-a54b9219d6cc" /> <img width="382" height="172" alt="Anasayfa-2" src="https://github.com/user-attachments/assets/ef03bd72-9c86-4703-be19-9de4de522648" />
 
-Anasayfa / History
 
-![Anasayfa-3](Anasayfa-3.png) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![History](History.png)
+
+Anasayfa özet kartı / History
+
+<img width="392" height="172" alt="History" src="https://github.com/user-attachments/assets/53b6c9a0-f2e0-40bb-a2e4-e01589357a2d" /> <img width="387" height="172" alt="Anasayfa-3" src="https://github.com/user-attachments/assets/ebdf061c-2bc8-4806-ab2b-57301fec4594" />
+
 
 # 💻 Kurulum
 
