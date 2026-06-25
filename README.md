@@ -9,15 +9,21 @@ Bu proje, kullanıcıların YouTube video linklerini girerek içeriğin ana hatl
 # 🛠️ Teknik Yetenekler
 
 Frontend: React.js, Responsive CSS (Grid & Flexbox mimarisi).
+
 Backend: .NET Web API (OpenRouter API entegrasyonu ile LLM destekli içerik analizi).
+
 Veri Yönetimi: LocalStorage (Geçmiş özetlerin tarayıcı bazlı takibi).
+
 Arayüz Tasarımı: Modüler CSS yaklaşımı ile temiz bir UI/UX.
 
 # ✨ Temel Özellikler
 
 Hızlı Özetleme: Videonun metin dökümünü analiz ederek en önemli 5 noktayı listeler.
+
 Dashboard Görünümü: Geçmiş özetlerinizi 2x2 matris yapısında, düzenli ve kompakt bir panelde görüntüler.
+
 Akıllı Yerleşim: CSS Grid ile her ekran boyutuna uyumlu, kaydırmalı (scrollable) içerik kartları.
+
 Modern Navigasyon: Sabit navbar ve katman yönetimi (z-index) ile kesintisiz kullanıcı deneyimi.
 
 # 📸 Görünüm
