@@ -1,13 +1,6 @@
-<<<<<<< HEAD
-
 # ⚡ TubeBrief
 
-# TubeBrief, YouTube videolarını hızlıca özetlemenizi sağlayan, yapay zeka destekli modern bir web uygulamasıdır. Uzun videoları izlemek için saatler harcamanıza gerek yok; videonun en önemli noktalarını saniyeler içinde öğrenin.
-
-⚡ TubeBrief
-TubeBrief, YouTube videolarını hızlıca özetlemenizi sağlayan, yapay zeka destekli modern bir web uygulamasıdır. Videonun en önemli noktalarını saniyeler içinde 5 madde halinde görüntülemenizi sağlar.
-
-> > > > > > > f020369672c9ec0ccb103796c6eb1c3bd3720cd5
+TubeBrief, YouTube videolarını hızlıca özetlemenizi sağlayan, yapay zeka destekli modern bir web uygulamasıdır. Uzun videoları izlemek için saatler harcamanıza gerek yok; videonun en önemli noktalarını saniyeler içinde öğrenin.
 
 # 🚀 Proje Hakkında
 
