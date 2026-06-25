@@ -30,7 +30,7 @@ Modern Navigasyon: Sabit navbar ve katman yönetimi (z-index) ile kesintisiz kul
 
 Anasayfa - Link ekleme 
 
-<img width="397" height="172" alt="Anasayfa" src="https://github.com/user-attachments/assets/aaaeadba-6b62-4f5b-ab26-a54b9219d6cc" /> <img width="382" height="172" alt="Anasayfa-2" src="https://github.com/user-attachments/assets/ef03bd72-9c86-4703-be19-9de4de522648" />
+<img width="397" height="172" alt="Anasayfa" src="https://github.com/user-attachments/assets/aaaeadba-6b62-4f5b-ab26-a54b9219d6cc" />      <img width="382" height="172" alt="Anasayfa-2" src="https://github.com/user-attachments/assets/ef03bd72-9c86-4703-be19-9de4de522648" />
 
 
 
