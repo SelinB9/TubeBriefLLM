@@ -22,9 +22,9 @@ Modern Navigasyon: Sabit navbar ve katman yönetimi (z-index) ile kesintisiz kul
 
 # 📸 Görünüm
 
-![1-Anasayfa](Anasayfa.png) &nbsp;&nbsp;&nbsp;![2-Anasayfa link ekleme işlemi](Anasayfa-2.png)
+![Anasayfa](Anasayfa.png) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Anasayfa-2](Anasayfa-2.png)
 
-![3-Anasayfa video özeti maddeler ve kısa özet](Anasayfa-3.png)&nbsp;&nbsp;&nbsp;![History](History.png)
+![Anasayfa-3](Anasayfa-3.png) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![History](History.png)
 
 # 💻 Kurulum
 
@@ -32,14 +32,10 @@ Projenin hem Frontend (React) hem de Backend (.NET) kısmını çalıştırmak i
 
 # 1. Frontend Kurulumu (React)
 
-Bash
-
-Proje dizinine gidin
+Bash(Proje dizinine gidin)
 
 cd TubeBriefLLM
-
 npm install
-
 npm start
 
 # 2. Backend Kurulumu (.NET)
@@ -47,15 +43,17 @@ npm start
 Bash (Backend dizinine geçin)
 
 cd BackendAPI/TubeBriefLLM.API
-
 dotnet restore
-
 dotnet run
+
 Not: Backend'in düzgün çalışması için appsettings.json dosyanızda OpenRouter API Key tanımlı olduğundan emin olun.
 
 🏗️ Gelecek Planları
+
 [ ] Kullanıcı hesap yönetimi (Auth) entegrasyonu.
+
 [ ] Özetlerin PDF olarak dışa aktarılması.
+
 [ ] Çoklu dil desteği.
 
 \*\*Bu proje, .NET ve React tabanlı modern bir full-stack mimarisinde, Büyük Dil Modellerinin (LLM Large Language Model) gerçek dünya senaryolarına nasıl entegre edilebileceğini uygulamalı olarak göstermek amacıyla geliştirilmiştir.
