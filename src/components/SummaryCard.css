@@ -1,0 +1,103 @@
+.summary-cards {
+    max-width: 760px;
+    margin: 40px auto;
+    height: 100%;
+    background: rgba(255, 255, 255, 0.8);
+    border-radius: 10px;
+    padding: 25px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(255, 255, 255, 0.5);
+}
+
+.card-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+.ai-badge-small {
+    font-size: 0.75rem;
+    color: #059669;
+    background: #ecfdf5;
+    padding: 4px 10px;
+    border-radius: 6px;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+/* Satır arası boşluğu daraltmak için padding'i 10px'e düşürdük ve align-items: flex-start yaptık */
+.point-item {
+    display: flex;
+    align-items: flex-start;
+    padding: 10px 0;
+    border-bottom: 1px solid #f3f4f6;
+    gap: 15px;
+}
+
+/* Mavi Balon İçi Sayı Ayarı */
+.number {
+    background: #eef2ff;
+    color: #4f46e5;
+    width: 28px;
+    height: 28px;
+    min-width: 28px;
+    /* Küçülmesini önler */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 8px;
+    font-weight: bold;
+    font-size: 0.9rem;
+    margin-top: 2px;
+    /* Yazı çizgisiyle tam eşitlemek için */
+}
+
+/* Yazının margin'ini sıfırladık ki fazladan alt/üst boşluk yaratmasın */
+.point-text {
+    margin: 0;
+    font-size: 0.95rem;
+    color: #1f2937;
+    line-height: 1.5;
+}
+
+/* Genel Özet Bölümü İçin Şık Bir Kutu */
+.general-summary-section {
+    margin-top: 20px;
+    padding-top: 15px;
+    border-top: 2px dashed #e5e7eb;
+}
+
+.general-summary-section h4 {
+    margin: 0 0 8px 0;
+    color: #374151;
+    font-size: 1rem;
+}
+
+.general-summary-section p {
+    margin: 0;
+    font-size: 0.95rem;
+    color: #4b5563;
+    line-height: 1.6;
+    font-style: italic;
+}
+
+.note {
+    font-size: 0.85rem;
+    color: #6b7280;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 6px;
+    margin-top: 0;
+}
+.video-title {
+    font-weight: 600;
+    /* ince */
+    font-size: 14px;
+    color: #141414;
+    /* soluk gri */
+    margin-left: 10px;
+}

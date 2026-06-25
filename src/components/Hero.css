@@ -1,0 +1,100 @@
+/* Hero Ana Konteyner */
+.hero {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 80px 20px 20px 20px;
+    text-align: center;
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+/* AI Badge - Küçük yeşil/mavi etiket */
+.ai-badge {
+    background: #f0fdf4;
+    color: #166534;
+    padding: 6px 16px;
+    border-radius: 500px;
+    font-size: 0.85rem;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-bottom: 0px;
+    border: 1px solid #dcfce7;
+  
+}
+
+/* Başlık */
+.hero h1 {
+    font-size: 3rem;
+    line-height: 1.2;
+    color: #111827;
+    margin-bottom: 0px;
+}
+
+/* "Not Minutes" kısmını vurgulamak için */
+.highlight {
+    color: #4bb06e;
+    /* Modern mavi tonu */
+}
+.highlight1{
+    color:#2b59bd;
+}
+
+/* İnput Kutusu (Beyaz zemin, gölgeli) */
+.input-container {
+    display: flex;
+    background: white;
+    padding: 6px;
+    border-radius: 50px;
+    box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.1), 0 8px 10px -6px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    margin-bottom: 0px;
+    border: 1px solid #f3f4f6;
+}
+
+.input-container input {
+    flex: 1;
+    border: none;
+    padding: 0 20px;
+    font-size: 1rem;
+    outline: none;
+    background: transparent;
+}
+
+/* Summarize Butonu */
+.input-container button {
+    background: #2b59bd;
+    /* Koyu renkli profesyonel buton */
+    color: white;
+    border: none;
+    padding: 14px 32px;
+    border-radius: 50px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background 0.3s ease;
+}
+
+.input-container button:hover {
+    background: #374151;
+}
+
+/* Gizlilik Notu */
+.privacy-note {
+    font-size: 0.75rem;
+    color: #6b7280;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+}
+.subtitle{
+    color: #6b7280;
+        display: flex;
+        align-items: center;
+     
+}

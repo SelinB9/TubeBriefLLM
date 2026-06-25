@@ -1,0 +1,68 @@
+.navbar{
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #ffffff;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.10);
+    padding: 0px 20px; /*10 navbarı inceltir alt üst   40 içeriği kenardan uzak tutar sağ/sol*/
+
+    height: 56px;
+    width: 100%;
+    position: fixed;
+    top:0;
+    left:0;
+    box-sizing: border-box;/* Padding verdiğimiz için ekranı taşırmasını engeller */
+    z-index: 9999;/* Sayfadaki her şeyden daha önde dur! */
+}
+/* Logonun Navbar içinde düzgün durması için: */
+.logo {
+height:170%;
+
+    
+}
+
+.logo img {
+    height: 130px;
+    /* Logonun boyunu sabitledik */
+    width: auto;
+    cursor: pointer;
+    mix-blend-mode: multiply;
+    /* Beyazlığı yok eder */
+    display: block;
+}
+.navbar-center {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    background-color: #2b59bd;
+    opacity: 0.8;
+    padding: 5px;
+    border-radius: 999px;
+    margin-right: 120px;
+    
+
+}
+
+/* Link (Buton) Tasarımı */
+.nav-link {
+    padding: 4px 16px;
+    border-radius: 50px;
+    text-decoration: none;
+    color: #e8f1f8;
+    /* Pasifken gri renk */
+    font-weight: 500;
+    transition: all 0.3s ease;
+    display: flex;
+        align-items: center;
+        gap: 8px;
+}
+
+/* Aktif (Seçili) Buton */
+.nav-link.active {
+    background-color: #ffffff;
+    /* Aktifken beyaz olur */
+    color: #111827;
+    /* Aktifken koyu renk olur */
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+    /* Aktif butona gölge verir */
+}
