@@ -1,11 +1,13 @@
 <<<<<<< HEAD
+
 # ⚡ TubeBrief
 
-TubeBrief, YouTube videolarını hızlıca özetlemenizi sağlayan, yapay zeka destekli modern bir web uygulamasıdır. Uzun videoları izlemek için saatler harcamanıza gerek yok; videonun en önemli noktalarını saniyeler içinde öğrenin.
-=======
+# TubeBrief, YouTube videolarını hızlıca özetlemenizi sağlayan, yapay zeka destekli modern bir web uygulamasıdır. Uzun videoları izlemek için saatler harcamanıza gerek yok; videonun en önemli noktalarını saniyeler içinde öğrenin.
+
 ⚡ TubeBrief
 TubeBrief, YouTube videolarını hızlıca özetlemenizi sağlayan, yapay zeka destekli modern bir web uygulamasıdır. Videonun en önemli noktalarını saniyeler içinde 5 madde halinde görüntülemenizi sağlar.
->>>>>>> f020369672c9ec0ccb103796c6eb1c3bd3720cd5
+
+> > > > > > > f020369672c9ec0ccb103796c6eb1c3bd3720cd5
 
 # 🚀 Proje Hakkında
 
@@ -25,7 +27,6 @@ Dashboard Görünümü: Geçmiş özetlerinizi 2x2 matris yapısında, düzenli 
 Akıllı Yerleşim: CSS Grid ile her ekran boyutuna uyumlu, kaydırmalı (scrollable) içerik kartları.
 Modern Navigasyon: Sabit navbar ve katman yönetimi (z-index) ile kesintisiz kullanıcı deneyimi.
 
-<<<<<<< HEAD
 # 📸 Görünüm
 
 ![1-Anasayfa](Anasayfa.png) &nbsp;&nbsp;&nbsp;![2-Anasayfa link ekleme işlemi](Anasayfa-2.png)
@@ -34,17 +35,6 @@ Modern Navigasyon: Sabit navbar ve katman yönetimi (z-index) ile kesintisiz kul
 
 # 💻 Kurulum
 
-=======
-📸 Görünüm
-
-![1-Anasayfa](Anasayfa.png)
-![2-Anasayfa link ekleme işlemi](Anasayfa-2.png)
-![3-Anasayfa video özeti maddeler ve kısa özet](Anasayfa-3.png)
-![History](History.png)
-
-
-💻 Kurulum
->>>>>>> f020369672c9ec0ccb103796c6eb1c3bd3720cd5
 Projenin hem Frontend (React) hem de Backend (.NET) kısmını çalıştırmak için aşağıdaki adımları takip edin:
 
 # 1. Frontend Kurulumu (React)
@@ -75,4 +65,4 @@ Not: Backend'in düzgün çalışması için appsettings.json dosyanızda OpenRo
 [ ] Özetlerin PDF olarak dışa aktarılması.
 [ ] Çoklu dil desteği.
 
-**Bu proje, .NET ve React tabanlı modern bir full-stack mimarisinde, Büyük Dil Modellerinin (LLM Large Language Model) gerçek dünya senaryolarına nasıl entegre edilebileceğini uygulamalı olarak göstermek amacıyla geliştirilmiştir.
+\*\*Bu proje, .NET ve React tabanlı modern bir full-stack mimarisinde, Büyük Dil Modellerinin (LLM Large Language Model) gerçek dünya senaryolarına nasıl entegre edilebileceğini uygulamalı olarak göstermek amacıyla geliştirilmiştir.
