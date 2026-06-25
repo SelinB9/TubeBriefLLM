@@ -36,8 +36,8 @@ Anasayfa - Link ekleme
 
 Anasayfa özet kartı / History
 
-<img width="392" height="172" alt="History" src="https://github.com/user-attachments/assets/53b6c9a0-f2e0-40bb-a2e4-e01589357a2d" /> <img width="387" height="172" alt="Anasayfa-3" src="https://github.com/user-attachments/assets/ebdf061c-2bc8-4806-ab2b-57301fec4594" />
-
+<img width="387" height="172" alt="Anasayfa-3" src="https://github.com/user-attachments/assets/ebdf061c-2bc8-4806-ab2b-57301fec4594" />
+<img width="392" height="172" alt="History" src="https://github.com/user-attachments/assets/53b6c9a0-f2e0-40bb-a2e4-e01589357a2d" /> 
 
 # 💻 Kurulum
 
