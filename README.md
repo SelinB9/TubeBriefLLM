@@ -28,7 +28,7 @@ Modern Navigasyon: Sabit navbar ve katman yönetimi (z-index) ile kesintisiz kul
 
 # 📸 Görünüm
 
-![Anasayfa](Anasayfa.png) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Anasayfa-2](Anasayfa-2.png)
+(Anasayfa-1.png) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; !(Anasayfa-2-1.png)
 
 ![Anasayfa-3](Anasayfa-3.png) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![History](History.png)
 
